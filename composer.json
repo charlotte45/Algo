@@ -1,0 +1,18 @@
+{
+    "name": "wilder4/algo",
+    "authors": [
+        {
+            "name": "charlotte45",
+            "email": "charlotte.prieur@yahoo.fr"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.4"
+    },
+
+    "autoload" : {
+        "psr-4": {
+            "Algo\\": "src/"
+        }
+    }
+}
